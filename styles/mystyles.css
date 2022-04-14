@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+.bold {
+    font-weight: bold;
+}
+
+.resumelistheading {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.image1 {
+    height: 315px;
+    width: 600px;
+}
+.resume1 {
+    text-align: center;
+    font-size: 32px;
+    text-decoration: underline;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.heading2 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.image3 {
+    height: 600px;
+    width: 600px;
+}
